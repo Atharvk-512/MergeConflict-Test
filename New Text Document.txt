@@ -1,1 +1,7 @@
 this is in first commit
+
+
+this is part of 2nd commit
+
+
+this is part of 3rd commit
